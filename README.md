@@ -30,8 +30,6 @@ I'm currently seeking opportunities to collaborate on open-source ML projects an
 
 Thank you for visiting my GitHub profile. I'm always open to feedback and collaboration opportunities. Let's connect and create impactful solutions together!
 
-Feel free to customize this further to reflect your projects and interests!
-
     Connect with me :singhyadavaniket43@gmail.com
 
 
