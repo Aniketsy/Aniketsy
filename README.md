@@ -1,9 +1,15 @@
-              Hello👋 Aniket here
- Machine Learning Enthusiast
+            👋 Hi, I'm Aniket Singh Yadav
+A passionate Machine Learning Enthusiast!
+
+💻 About Me
+I'm a second-year college student pursuing Computer Science with a strong curiosity for Artificial Intelligence. 
+I regularly read research papers from MIT,stay updated with the latest trends in AI,
+and work on hands-on projects that solve real-world problems using Machine Learning (ML) and Deep Learning (DL).
+
 
 ⭐ Looking forward to start my professional career in AI and Machine Learning Field.
 
-🌱 I’m currently learning Machine Learning related tools and technique 📊
+🌱 I’m currently learning Machine Learning related tools and technique 📊 as well as Data Structures And Algorithms
 
 💻 Tech Stack:
 🧑🏻‍💻 Programming Language
@@ -18,5 +24,20 @@ Scikit Learn  Tensorflow
 🫙 Database
 MySQL 
 
- Connect with me :singhyadavaniket43@gmail.com
+🤝 Looking for Collaborations!
+I'm currently seeking opportunities to collaborate on open-source ML projects and participate in hackathons with like-minded individuals. Let's build something awesome together!
+
+
+Thank you for visiting my GitHub profile. I'm always open to feedback and collaboration opportunities. Let's connect and create impactful solutions together!
+
+Feel free to customize this further to reflect your projects and interests!
+
+    Connect with me :singhyadavaniket43@gmail.com
+
+
+
+
+
+
+
  
