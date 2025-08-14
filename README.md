@@ -6,7 +6,7 @@
 
 <img src="the_data.gif" align="right" width="280px">
 
-⭐ Looking forward to start my professional career in any Data Science and Machine Learning Field. <br><br>
+⭐ Open to internships and freelancing opportunities in Data Science and Machine Learning. <br><br>
 🌱 I’m currently learning **Reinforcement Learning**<br><br>
 🤩 Fascinated by **AI in Medical Field 🤖🧠🏪**<br><br>
 
@@ -96,16 +96,23 @@
 
 
 
-<h2><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="30"> Connect with me :</h2>
+<h2>
+  <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="30"> 
+  Connect with me :
+</h2>
+
 <div>
-    <a href = "mailto:singhyadavaniket43@gmail.com" target = "_blank">
-    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
+    <!-- Gmail -->
+    <a href="mailto:singhyadavaniket43@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <img src="" align="center" alt="">
-<!--     <a href="https://www.linkedin.com/in/aditya-singh-aba7691ba" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>  -->
-</div> 
+
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/aniket-singh-yadav-970b3b296/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
+
 
 
 
