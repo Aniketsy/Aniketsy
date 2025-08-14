@@ -102,15 +102,13 @@
 </h2>
 
 <div>
-    <!-- Gmail -->
     <a href="mailto:singhyadavaniket43@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/aniket-singh-yadav-970b3b296/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+<a href="https://www.linkedin.com/in/aniket-singh-yadav-970b3b296/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </div>
 
 
