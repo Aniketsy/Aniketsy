@@ -1,13 +1,13 @@
 <h1 align="center">Hello👋 Aniket here</h1>
 
-<h3 align="center"> Data Science Enthusiast </h3>
+<h3 align="center"> Data Science and Machine Learning Enthusiast </h3>
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <img src="the_data.gif" align="right" width="280px">
 
-⭐ Looking forward to start my professional career in any Data Science Field. <br><br>
-🌱 I’m currently learning **Data Science related tools and technique 📊**<br><br>
+⭐ Looking forward to start my professional career in any Data Science and Machine Learning Field. <br><br>
+🌱 I’m currently learning **Reinforcement Learning**<br><br>
 🤩 Fascinated by **AI in Medical Field 🤖🧠🏪**<br><br>
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
