@@ -111,22 +111,3 @@
 </a>
 </div>
 
-## 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniketsy&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aniketsy&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsy&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-</p>
-
-
-
-
-
- 
