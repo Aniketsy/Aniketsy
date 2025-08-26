@@ -8,7 +8,7 @@
 
 ⭐ Open to internships and freelancing opportunities in Data Science and Machine Learning. <br><br>
 🌱 I’m currently learning **Reinforcement Learning**<br><br>
-🤩 Fascinated by **AI in Medical Field 🤖🧠🏪**<br><br>
+🤩 🧠 Exploring the **Hidden Equations Behind Smart Machines**<br><br>
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
@@ -110,6 +110,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </div>
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniketsy&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketsy&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsy&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
 
 
