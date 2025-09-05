@@ -1,6 +1,4 @@
 <h1 align="center">Hello👋 Aniket here</h1>
-![Profile Views](https://komarev.com/ghpvc/?username=Aniketsy&label=Profile%20views&color=0e75b6&style=flat)
-
 
 <h3 align="center"> Data Science and Machine Learning Enthusiast </h3>
 
