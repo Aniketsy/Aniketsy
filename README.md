@@ -94,6 +94,29 @@
 
 </div>
 
+## 🌐 Open Source Contributions
+
+<div align="center">
+  <a href="https://github.com/jax-ml/jax/pull/31285" target="_blank">
+    <img src="https://img.shields.io/badge/JAX-007FFF?style=for-the-badge&logo=JAX&logoColor=white" alt="JAX"/>
+  </a>
+  
+  <a href="https://github.com/pandas-dev/pandas/pull/61946" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  
+  <a href="https://github.com/statsmodels/statsmodels/pull/9622" target="_blank">
+    <img src="https://img.shields.io/badge/Statsmodels-1C1C1C?style=for-the-badge&logoColor=white" alt="Statsmodels"/>
+  </a>
+
+  <a href="https://github.com/statsmodels/statsmodels/pull/9626" target="_blank">
+  <img src="https://img.shields.io/badge/Statsmodels-PR2-1C1C1C?style=for-the-badge&logoColor=white" alt="Statsmodels PR2"/>
+  </a>
+  
+  <a href="https://github.com/data-8/datascience/pull/646" target="_blank">
+    <img src="https://img.shields.io/badge/Data-8/DataScience-F05032?style=for-the-badge&logo=python&logoColor=white" alt="Data 8"/>
+  </a>
+</div>
 
 
 <h2>
