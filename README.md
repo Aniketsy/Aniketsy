@@ -1,7 +1,5 @@
 <h1 align="center">Hello👋 Aniket here</h1>
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-Aniketsy-pink?logo=github&style=for-the-badge)](https://github.com/sponsors/Aniketsy)
-
 
 <h3 align="center"> Data Science and Machine Learning Enthusiast </h3>
 
