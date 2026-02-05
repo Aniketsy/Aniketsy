@@ -10,6 +10,7 @@ I actively contribute to open source and enjoy working on real world problems.
 - *[Pandas](https://github.com/pandas-dev/pandas)*
 - *[Statsmodels](https://github.com/statsmodels/statsmodels)*
 - *[TensorFlow Quantum](https://github.com/tensorflow/quantum)*
+- *[ONNX Script (Microsoft)](https://github.com/microsoft/onnxscript)*
 - *[JAX](https://github.com/jax-ml/jax)*
 - *[Apache Iceberg (Python)](https://github.com/apache/iceberg-python)*
 - *[Data 8 – datascience](https://github.com/data-8/datascience)*
