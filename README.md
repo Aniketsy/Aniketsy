@@ -15,6 +15,7 @@ I actively contribute to open source and enjoy working on real world problems.
 - *[Apache Iceberg (Python)](https://github.com/apache/iceberg-python)*
 - *[Data 8 – datascience](https://github.com/data-8/datascience)*
 - *[pgmpy](https://github.com/pgmpy/pgmpy)*
+- *[mne-python](https://github.com/mne-tools/mne-python)*
 - *[sktime](https://github.com/sktime/sktime)*
 - *[OpenCue (Academic Software Foundation)](https://github.com/AcademySoftwareFoundation/OpenCue)*
 
