@@ -9,6 +9,7 @@ I actively contribute to open source and enjoy working on real world problems.
 - *[NumPy](https://github.com/numpy/numpy)*
 - *[Pandas](https://github.com/pandas-dev/pandas)*
 - *[mne-python](https://github.com/mne-tools/mne-python)*
+- *[napari](https://github.com/napari/napari)*
 - *[Statsmodels](https://github.com/statsmodels/statsmodels)*
 - *[TensorFlow Quantum](https://github.com/tensorflow/quantum)*
 - *[ONNX Script (Microsoft)](https://github.com/microsoft/onnxscript)*
