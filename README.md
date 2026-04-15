@@ -19,6 +19,7 @@ I actively contribute to open source and enjoy working on real world problems.
 - *[Data 8 – datascience](https://github.com/data-8/datascience)*
 - *[pgmpy](https://github.com/pgmpy/pgmpy)*
 - *[sktime](https://github.com/sktime/sktime)*
+- *[pyosMeta](https://github.com/pyOpenSci/pyosMeta)*
 - *[OpenCue (Academic Software Foundation)](https://github.com/AcademySoftwareFoundation/OpenCue)*
 
 *If you’d like to collaborate or discuss anything, feel free to reach out at **singhyadavaniket43@gmail.com***
