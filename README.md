@@ -8,6 +8,7 @@ I actively contribute to open source and enjoy working on real world problems.
 - *[CPython](https://github.com/python/cpython)*
 - *[NumPy](https://github.com/numpy/numpy)*
 - *[numpy/numtype](https://github.com/numpy/numtype)*
+- *[Scipy](https://github.com/scipy/scipy)*
 - *[Pandas](https://github.com/pandas-dev/pandas)*
 - *[mne-python](https://github.com/mne-tools/mne-python)*
 - *[scipy/scipy-stubs](https://github.com/scipy/scipy-stubs)*
