@@ -26,4 +26,11 @@ I actively contribute to open source and enjoy working on real world problems.
 
 *If you’d like to collaborate or discuss anything, feel free to reach out at **singhyadavaniket43@gmail.com***
 
+(`To be completed`) 
+
+As this is my special repository, maybe I should describe myself `I love mathematics` and one quote `"Keep moving forward ....."`.
+That's a bit about me, I'll be adding more.
+
 (`To be completed`)
+
+Moving towards being a `perfectionist (maybe i only know 🤷‍♂️)` you may guess from emoji if not feel free to ask me 😁. Thank you for reading this...
