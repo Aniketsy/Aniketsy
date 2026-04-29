@@ -13,6 +13,7 @@ I actively contribute to open source and enjoy working on real world problems.
 - *[mne-python](https://github.com/mne-tools/mne-python)*
 - *[scipy/scipy-stubs](https://github.com/scipy/scipy-stubs)*
 - *[napari](https://github.com/napari/napari)*
+- *[napari/docs](https://github.com/napari/docs)*
 - *[Statsmodels](https://github.com/statsmodels/statsmodels)*
 - *[TensorFlow Quantum](https://github.com/tensorflow/quantum)*
 - *[ONNX Script (Microsoft)](https://github.com/microsoft/onnxscript)*
