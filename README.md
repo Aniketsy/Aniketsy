@@ -24,6 +24,7 @@ I actively contribute to open source and enjoy working on real world problems.
 - *[sktime](https://github.com/sktime/sktime)*
 - *[pyosMeta](https://github.com/pyOpenSci/pyosMeta)*
 - *[optype](https://github.com/jorenham/optype)*
+- *[typestats](https://github.com/Aniketsy/typestats)*
 - *[OpenCue (Academic Software Foundation)](https://github.com/AcademySoftwareFoundation/OpenCue)*
 
 *If you’d like to collaborate or discuss anything, feel free to reach out at **singhyadavaniket43@gmail.com***
