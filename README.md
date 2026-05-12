@@ -34,6 +34,10 @@ I actively contribute to open source and enjoy working on real world problems.
 As this is my special repository, maybe I should describe myself `I love mathematics` and one quote `"Keep moving forward ....."`.
 That's a bit about me, I'll be adding more.
 
+<img src="https://latex.codecogs.com/png.image?\dpi{150}\mathcal{L}_{TOE}=\underbrace{\frac{\sqrt{-g}}{16\pi%20G}(R-2\Lambda)}_{\text{Quantum%20Gravity}}+\underbrace{\sqrt{-g}\left(-\frac{1}{4}F_{\mu\nu}^{a}F^{a\mu\nu}+i\bar{\psi}\gamma^{\mu}D_{\mu}\psi+|D_{\mu}\phi|^{2}-V(\phi)+y_{ij}\bar{\psi}_{i}\phi\psi_{j}\right)}_{\text{Standard%20Model%20(SM)}}+\underbrace{\mathcal{L}_{DM}+\mathcal{L}_{DE}}_{\text{Dark%20Sector}}+\underbrace{\mathcal{L}_{SUSY}}_{\text{Supersymmetry}}" />
+
+- see i don't understand the `Theory of everything` 😿, if you also don't then let's connect .... 😁.
+
 (`To be completed`)
 
 Moving towards being a `perfectionist (maybe i only know 🤷‍♂️)` you may guess from emoji if not feel free to ask me 😁. Thank you for reading this...
