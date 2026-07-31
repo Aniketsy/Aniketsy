@@ -13,6 +13,7 @@ I actively contribute to open source and enjoy working on mathematical problems.
 - *[mne-python](https://github.com/mne-tools/mne-python)*
 - *[scipy/scipy-stubs](https://github.com/scipy/scipy-stubs)*
 - *[napari](https://github.com/napari/napari)*
+- *[matplotlib](https://github.com/matplotlib/matplotlib)*
 - *[napari/docs](https://github.com/napari/docs)*
 - *[Statsmodels](https://github.com/statsmodels/statsmodels)*
 - *[TensorFlow Quantum](https://github.com/tensorflow/quantum)*
