@@ -16,6 +16,7 @@ I actively contribute to open source and enjoy working on mathematical problems.
 - *[matplotlib](https://github.com/matplotlib/matplotlib)*
 - *[napari/docs](https://github.com/napari/docs)*
 - *[Statsmodels](https://github.com/statsmodels/statsmodels)*
+- *[pyrefly](https://github.com/facebook/pyrefly)*
 - *[TensorFlow Quantum](https://github.com/tensorflow/quantum)*
 - *[ONNX Script (Microsoft)](https://github.com/microsoft/onnxscript)*
 - *[JAX](https://github.com/jax-ml/jax)*
