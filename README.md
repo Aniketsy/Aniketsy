@@ -42,4 +42,4 @@ That's a bit about me, I'll be adding more.
 
 (`To be completed`)
 
-Moving towards being a `perfectionist (maybe i only know 🤷‍♂️)` you may guess from emoji if not feel free to ask me 😁. Thank you for reading this...
+Moving towards being a `perfectionist (maybe i only know 🤷‍♂️)` you may guess from emoji if not feel free to ask me 😁. Thank you for reading this... `set t = 0`
